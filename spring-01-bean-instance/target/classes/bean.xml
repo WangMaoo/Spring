@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--<bean id="account" class="com.wmq.spring.pojo.Account"></bean>-->
+
+    <!--<bean id="account" class="com.wmq.spring.factory.StaticFactory" factory-method="createdAccount"></bean>-->
+
+    <bean id="instanceFactory" class="com.wmq.spring.factory.InstanceFactory"></bean>
+    <bean id="account" factory-bean="instanceFactory" factory-method="createdAccount"/>
+
+</beans>
