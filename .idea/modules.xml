@@ -9,6 +9,14 @@
       <module fileurl="file://$PROJECT_DIR$/spring-01-beanFactory-applicationContext/spring-01-beanFactory-applicationContext.iml" filepath="$PROJECT_DIR$/spring-01-beanFactory-applicationContext/spring-01-beanFactory-applicationContext.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-01-spring-bean-di-set/spring-01-spring-bean-di-set.iml" filepath="$PROJECT_DIR$/spring-01-spring-bean-di-set/spring-01-spring-bean-di-set.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-01-spring-ioc-xml/spring-01-spring-ioc-xml.iml" filepath="$PROJECT_DIR$/spring-01-spring-ioc-xml/spring-01-spring-ioc-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day02-01jdbctemplate/spring-day02-01jdbctemplate.iml" filepath="$PROJECT_DIR$/spring-day02-01jdbctemplate/spring-day02-01jdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day02-02jdbctemplate-crud/spring-day02-02jdbctemplate-crud.iml" filepath="$PROJECT_DIR$/spring-day02-02jdbctemplate-crud/spring-day02-02jdbctemplate-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day02-03jdbctemplate-mapper/spring-day02-03jdbctemplate-mapper.iml" filepath="$PROJECT_DIR$/spring-day02-03jdbctemplate-mapper/spring-day02-03jdbctemplate-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day02-05annotation-xml-ioc/spring-day02-05annotation-xml-ioc.iml" filepath="$PROJECT_DIR$/spring-day02-05annotation-xml-ioc/spring-day02-05annotation-xml-ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day02-09annotation-xml-ioc-value/spring-day02-09annotation-xml-ioc-value.iml" filepath="$PROJECT_DIR$/spring-day02-09annotation-xml-ioc-value/spring-day02-09annotation-xml-ioc-value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day02-11annotation-xml-ioc-life/spring-day02-11annotation-xml-ioc-life.iml" filepath="$PROJECT_DIR$/spring-day02-11annotation-xml-ioc-life/spring-day02-11annotation-xml-ioc-life.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day02-12annotation-ioc/spring-day02-12annotation-ioc.iml" filepath="$PROJECT_DIR$/spring-day02-12annotation-ioc/spring-day02-12annotation-ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day03-02house-jdkProxy/spring-day03-02house-jdkProxy.iml" filepath="$PROJECT_DIR$/spring-day03-02house-jdkProxy/spring-day03-02house-jdkProxy.iml" />
     </modules>
   </component>
 </project>

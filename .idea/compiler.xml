@@ -6,12 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-01-beanFactory-applicationContext" />
-        <module name="spring-01-bean-instance" />
-        <module name="spring-01-bean-scope" />
         <module name="spring-01-spring-ioc-xml" />
+        <module name="spring-day02-09annotation-xml-ioc-value" />
+        <module name="spring-day02-03jdbctemplate-mapper" />
+        <module name="spring-01-bean-instance" />
+        <module name="spring-day02-05annotation-xml-ioc" />
+        <module name="spring-day02-11annotation-xml-ioc-life" />
         <module name="spring-01-spring-bean-di-set" />
+        <module name="spring-day02-12annotation-ioc" />
+        <module name="spring-day02-02jdbctemplate-crud" />
+        <module name="spring-day03-02house-jdkProxy" />
+        <module name="spring-01-bean-scope" />
+        <module name="spring-01-beanFactory-applicationContext" />
         <module name="spring-01-bean-lifecycle" />
+        <module name="spring-day02-01jdbctemplate" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +29,14 @@
       <module name="spring-01-beanFactory-applicationContext" target="1.8" />
       <module name="spring-01-spring-bean-di-set" target="1.8" />
       <module name="spring-01-spring-ioc-xml" target="1.8" />
+      <module name="spring-day02-01jdbctemplate" target="1.8" />
+      <module name="spring-day02-02jdbctemplate-crud" target="1.8" />
+      <module name="spring-day02-03jdbctemplate-mapper" target="1.8" />
+      <module name="spring-day02-05annotation-xml-ioc" target="1.8" />
+      <module name="spring-day02-09annotation-xml-ioc-value" target="1.8" />
+      <module name="spring-day02-11annotation-xml-ioc-life" target="1.8" />
+      <module name="spring-day02-12annotation-ioc" target="1.8" />
+      <module name="spring-day03-02house-jdkProxy" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
