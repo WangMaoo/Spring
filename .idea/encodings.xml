@@ -14,6 +14,19 @@
     <file url="file://$PROJECT_DIR$/spring-01-spring-ioc-xml/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-01-spring-ioc-xml/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-day02-01jdbctemplate/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-day03-02house-jdkProxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-04myaop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-04myaop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-06spring-aop-xml-inform/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-06spring-aop-xml-inform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-07spring-aop-xml-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-07spring-aop-xml-annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-08spring-aop-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-08spring-aop-annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-09spring-tx-xml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-09spring-tx-xml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-10spring-tx-xml-lv1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-10spring-tx-xml-lv1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-12spring-tx-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day03-12spring-tx-annotation/src/main/resources" charset="UTF-8" />
   </component>
 </project>

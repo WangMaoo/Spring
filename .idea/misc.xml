@@ -19,7 +19,13 @@
         <option value="$PROJECT_DIR$/spring-day02-09annotation-xml-ioc-value/pom.xml" />
         <option value="$PROJECT_DIR$/spring-day02-11annotation-xml-ioc-life/pom.xml" />
         <option value="$PROJECT_DIR$/spring-day02-12annotation-ioc/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-day03-02house-jdkProxy/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-day03-04myaop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-day03-06spring-aop-xml-inform/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-day03-07spring-aop-xml-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-day03-08spring-aop-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-day03-09spring-tx-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-day03-10spring-tx-xml-lv1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-day03-12spring-tx-annotation/pom.xml" />
       </list>
     </option>
   </component>

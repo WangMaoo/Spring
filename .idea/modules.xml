@@ -16,7 +16,13 @@
       <module fileurl="file://$PROJECT_DIR$/spring-day02-09annotation-xml-ioc-value/spring-day02-09annotation-xml-ioc-value.iml" filepath="$PROJECT_DIR$/spring-day02-09annotation-xml-ioc-value/spring-day02-09annotation-xml-ioc-value.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-day02-11annotation-xml-ioc-life/spring-day02-11annotation-xml-ioc-life.iml" filepath="$PROJECT_DIR$/spring-day02-11annotation-xml-ioc-life/spring-day02-11annotation-xml-ioc-life.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-day02-12annotation-ioc/spring-day02-12annotation-ioc.iml" filepath="$PROJECT_DIR$/spring-day02-12annotation-ioc/spring-day02-12annotation-ioc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-day03-02house-jdkProxy/spring-day03-02house-jdkProxy.iml" filepath="$PROJECT_DIR$/spring-day03-02house-jdkProxy/spring-day03-02house-jdkProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day03-04myaop/spring-day03-04myaop.iml" filepath="$PROJECT_DIR$/spring-day03-04myaop/spring-day03-04myaop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day03-06spring-aop-xml-inform/spring-day03-06spring-aop-xml-inform.iml" filepath="$PROJECT_DIR$/spring-day03-06spring-aop-xml-inform/spring-day03-06spring-aop-xml-inform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day03-07spring-aop-xml-annotation/spring-day03-07spring-aop-xml-annotation.iml" filepath="$PROJECT_DIR$/spring-day03-07spring-aop-xml-annotation/spring-day03-07spring-aop-xml-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day03-08spring-aop-annotation/spring-day03-08spring-aop-annotation.iml" filepath="$PROJECT_DIR$/spring-day03-08spring-aop-annotation/spring-day03-08spring-aop-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day03-09spring-tx-xml/spring-day03-09spring-tx-xml.iml" filepath="$PROJECT_DIR$/spring-day03-09spring-tx-xml/spring-day03-09spring-tx-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day03-10spring-tx-xml-lv1/spring-day03-10spring-tx-xml-lv1.iml" filepath="$PROJECT_DIR$/spring-day03-10spring-tx-xml-lv1/spring-day03-10spring-tx-xml-lv1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day03-12spring-tx-annotation/spring-day03-12spring-tx-annotation.iml" filepath="$PROJECT_DIR$/spring-day03-12spring-tx-annotation/spring-day03-12spring-tx-annotation.iml" />
     </modules>
   </component>
 </project>
