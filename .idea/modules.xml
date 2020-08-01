@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-day03-09spring-tx-xml/spring-day03-09spring-tx-xml.iml" filepath="$PROJECT_DIR$/spring-day03-09spring-tx-xml/spring-day03-09spring-tx-xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-day03-10spring-tx-xml-lv1/spring-day03-10spring-tx-xml-lv1.iml" filepath="$PROJECT_DIR$/spring-day03-10spring-tx-xml-lv1/spring-day03-10spring-tx-xml-lv1.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-day03-12spring-tx-annotation/spring-day03-12spring-tx-annotation.iml" filepath="$PROJECT_DIR$/spring-day03-12spring-tx-annotation/spring-day03-12spring-tx-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-day01-01helloworld/springmvc-day01-01helloworld.iml" filepath="$PROJECT_DIR$/springmvc-day01-01helloworld/springmvc-day01-01helloworld.iml" />
     </modules>
   </component>
 </project>
