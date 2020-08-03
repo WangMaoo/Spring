@@ -16,7 +16,6 @@
         <module name="springmvc-day02-04intercept" />
         <module name="spring-day03-10spring-tx-xml-lv1" />
         <module name="spring-day02-05annotation-xml-ioc" />
-        <module name="springmvc-day02-03upload (1)" />
         <module name="spring-01-bean-scope" />
         <module name="spring-day02-11annotation-xml-ioc-life" />
         <module name="springmvc-day01-01helloworld" />
@@ -27,6 +26,7 @@
         <module name="spring-day03-06spring-aop-xml-inform" />
         <module name="spring-day02-01jdbctemplate" />
         <module name="spring-01-bean-lifecycle" />
+        <module name="ssm-project-xml" />
         <module name="spring-01-beanFactory-applicationContext" />
         <module name="springmvc-day02-03upload (1) (com.itheima.project)" />
         <module name="springmvc-day02-03upload" />
@@ -65,6 +65,7 @@
       <module name="springmvc-day02-03upload (1) (com.itheima.project)" target="8" />
       <module name="springmvc-day02-04intercept" target="8" />
       <module name="springmvc-day02-05login-intercept" target="8" />
+      <module name="ssm-project-xml" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

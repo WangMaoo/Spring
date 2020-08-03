@@ -26,10 +26,10 @@
       <module fileurl="file://$PROJECT_DIR$/springmvc-day01-01helloworld/springmvc-day01-01helloworld.iml" filepath="$PROJECT_DIR$/springmvc-day01-01helloworld/springmvc-day01-01helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc-day02-01return-type/springmvc-day02-01return-type.iml" filepath="$PROJECT_DIR$/springmvc-day02-01return-type/springmvc-day02-01return-type.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc-day02-03upload/springmvc-day02-03upload.iml" filepath="$PROJECT_DIR$/springmvc-day02-03upload/springmvc-day02-03upload.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springmvc-day02-03upload1/springmvc-day02-03upload (1).iml" filepath="$PROJECT_DIR$/springmvc-day02-03upload1/springmvc-day02-03upload (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc-day02-03upload1/springmvc-day02-03upload (1) (com.itheima.project).iml" filepath="$PROJECT_DIR$/springmvc-day02-03upload1/springmvc-day02-03upload (1) (com.itheima.project).iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc-day02-04intercept/springmvc-day02-04intercept.iml" filepath="$PROJECT_DIR$/springmvc-day02-04intercept/springmvc-day02-04intercept.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc-day02-05login-intercept/springmvc-day02-05login-intercept.iml" filepath="$PROJECT_DIR$/springmvc-day02-05login-intercept/springmvc-day02-05login-intercept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-project-xml/ssm-project-xml.iml" filepath="$PROJECT_DIR$/ssm-project-xml/ssm-project-xml.iml" />
     </modules>
   </component>
 </project>

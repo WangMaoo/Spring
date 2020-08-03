@@ -7,6 +7,7 @@
     <file type="web" url="file://$PROJECT_DIR$/springmvc-day02-03upload1" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc-day02-04intercept" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc-day02-05login-intercept" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm-project-xml" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -37,9 +38,9 @@
         <option value="$PROJECT_DIR$/springmvc-day01-01helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc-day02-01return-type/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc-day02-03upload/pom.xml" />
-        <option value="$PROJECT_DIR$/springmvc-day02-03upload1/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc-day02-04intercept/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc-day02-05login-intercept/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm-project-xml/pom.xml" />
       </list>
     </option>
   </component>
