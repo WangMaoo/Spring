@@ -4,6 +4,7 @@ import org.springframework.beans.propertyeditors.CustomDateEditor;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.WebDataBinder;
 import org.springframework.web.bind.annotation.InitBinder;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
@@ -32,7 +33,7 @@ public class PojosType {
     }
 
     @RequestMapping(value = "do-pojos" )
-    public ModelAndView doPojo(Customer customer) {
-        return new ModelAndView("/pojos-type").addObject("customer", customer.toString());
+    public ModelAndView doPojo( Customer customer) {
+        return new ModelAndView("/pojos-type").addObject("customer", customer);
     }
 }

@@ -1,0 +1,5 @@
+com\itheima\project\service\impl\FileObjectServiceImpl.class
+com\itheima\project\service\FileObjectService.class
+com\itheima\project\web\UpLoadController.class
+com\itheima\project\pojo\FileObject.class
+com\itheima\project\pojo\Customer.class

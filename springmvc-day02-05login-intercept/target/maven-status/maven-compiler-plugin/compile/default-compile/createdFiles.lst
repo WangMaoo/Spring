@@ -1,0 +1,12 @@
+com\wmq\spring\intercept\BaseIntercept.class
+com\wmq\spring\intercept\BaseInterceptA.class
+com\wmq\spring\service\FileObjectService.class
+com\wmq\spring\exception\ProjectException.class
+com\wmq\spring\exception\BaseException.class
+com\wmq\spring\exception\ProjectExceptionResolver.class
+com\wmq\spring\pojo\Customer.class
+com\wmq\spring\pojo\FileObject.class
+com\wmq\spring\controller\CustomerController.class
+com\wmq\spring\service\impl\FileObjectServiceImpl.class
+com\wmq\spring\intercept\LoginIntercept.class
+com\wmq\spring\controller\UpLoadController.class

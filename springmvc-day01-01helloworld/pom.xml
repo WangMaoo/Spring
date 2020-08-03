@@ -22,6 +22,8 @@
     <jsp.version>2.0</jsp.version>
     <!--jsp版本-->
     <jstl.version>1.2</jstl.version>
+    <jackson.version>2.9.0</jackson.version>
+
   </properties>
 
   <dependencies>
@@ -64,6 +66,22 @@
       <artifactId>servlet-api</artifactId>
       <version>${servlet.version}</version>
       <scope>provided</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-core</artifactId>
+      <version>${jackson.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-databind</artifactId>
+      <version>${jackson.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-annotations</artifactId>
+      <version>${jackson.version}</version>
     </dependency>
 
   </dependencies>

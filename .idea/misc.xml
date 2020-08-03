@@ -2,6 +2,11 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/springmvc-day01-01helloworld" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-day02-01return-type" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-day02-03upload" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-day02-03upload1" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-day02-04intercept" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-day02-05login-intercept" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -30,6 +35,11 @@
         <option value="$PROJECT_DIR$/spring-day03-10spring-tx-xml-lv1/pom.xml" />
         <option value="$PROJECT_DIR$/spring-day03-12spring-tx-annotation/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc-day01-01helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-day02-01return-type/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-day02-03upload/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-day02-03upload1/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-day02-04intercept/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-day02-05login-intercept/pom.xml" />
       </list>
     </option>
   </component>

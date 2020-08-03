@@ -2,6 +2,7 @@ package com.wmq.spring.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
 /**
@@ -20,7 +21,7 @@ public class BasicType {
     }
 
     @RequestMapping(value = "do-type")
-    public ModelAndView doType(Integer id) {
+    public ModelAndView doType(@RequestParam(value = "id",defaultValue = "1") Integer id) {
         return new ModelAndView("/basic-type").addObject("id", id);
     }
 }

@@ -24,6 +24,12 @@
       <module fileurl="file://$PROJECT_DIR$/spring-day03-10spring-tx-xml-lv1/spring-day03-10spring-tx-xml-lv1.iml" filepath="$PROJECT_DIR$/spring-day03-10spring-tx-xml-lv1/spring-day03-10spring-tx-xml-lv1.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-day03-12spring-tx-annotation/spring-day03-12spring-tx-annotation.iml" filepath="$PROJECT_DIR$/spring-day03-12spring-tx-annotation/spring-day03-12spring-tx-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc-day01-01helloworld/springmvc-day01-01helloworld.iml" filepath="$PROJECT_DIR$/springmvc-day01-01helloworld/springmvc-day01-01helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-day02-01return-type/springmvc-day02-01return-type.iml" filepath="$PROJECT_DIR$/springmvc-day02-01return-type/springmvc-day02-01return-type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-day02-03upload/springmvc-day02-03upload.iml" filepath="$PROJECT_DIR$/springmvc-day02-03upload/springmvc-day02-03upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-day02-03upload1/springmvc-day02-03upload (1).iml" filepath="$PROJECT_DIR$/springmvc-day02-03upload1/springmvc-day02-03upload (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-day02-03upload1/springmvc-day02-03upload (1) (com.itheima.project).iml" filepath="$PROJECT_DIR$/springmvc-day02-03upload1/springmvc-day02-03upload (1) (com.itheima.project).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-day02-04intercept/springmvc-day02-04intercept.iml" filepath="$PROJECT_DIR$/springmvc-day02-04intercept/springmvc-day02-04intercept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-day02-05login-intercept/springmvc-day02-05login-intercept.iml" filepath="$PROJECT_DIR$/springmvc-day02-05login-intercept/springmvc-day02-05login-intercept.iml" />
     </modules>
   </component>
 </project>

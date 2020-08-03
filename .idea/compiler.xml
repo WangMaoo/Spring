@@ -9,23 +9,29 @@
         <module name="spring-day03-07spring-aop-xml-annotation" />
         <module name="spring-01-spring-ioc-xml" />
         <module name="spring-day03-09spring-tx-xml" />
-        <module name="spring-day03-10spring-tx-xml-lv1" />
+        <module name="springmvc-day02-01return-type" />
         <module name="spring-day03-12spring-tx-annotation" />
         <module name="spring-day02-03jdbctemplate-mapper" />
         <module name="spring-day03-04myaop" />
-        <module name="spring-01-bean-instance" />
+        <module name="springmvc-day02-04intercept" />
+        <module name="spring-day03-10spring-tx-xml-lv1" />
         <module name="spring-day02-05annotation-xml-ioc" />
+        <module name="springmvc-day02-03upload (1)" />
+        <module name="spring-01-bean-scope" />
         <module name="spring-day02-11annotation-xml-ioc-life" />
         <module name="springmvc-day01-01helloworld" />
         <module name="spring-01-spring-bean-di-set" />
         <module name="spring-day02-12annotation-ioc" />
         <module name="spring-day02-02jdbctemplate-crud" />
+        <module name="springmvc-day02-05login-intercept" />
         <module name="spring-day03-06spring-aop-xml-inform" />
         <module name="spring-day02-01jdbctemplate" />
-        <module name="spring-01-bean-scope" />
-        <module name="spring-01-beanFactory-applicationContext" />
         <module name="spring-01-bean-lifecycle" />
+        <module name="spring-01-beanFactory-applicationContext" />
+        <module name="springmvc-day02-03upload (1) (com.itheima.project)" />
+        <module name="springmvc-day02-03upload" />
         <module name="spring-day02-09annotation-xml-ioc-value" />
+        <module name="spring-01-bean-instance" />
         <module name="spring-day03-08spring-aop-annotation" />
       </profile>
     </annotationProcessing>
@@ -53,6 +59,12 @@
       <module name="spring-day03-10spring-tx-xml-lv1" target="1.8" />
       <module name="spring-day03-12spring-tx-annotation" target="1.8" />
       <module name="springmvc-day01-01helloworld" target="8" />
+      <module name="springmvc-day02-01return-type" target="8" />
+      <module name="springmvc-day02-03upload" target="8" />
+      <module name="springmvc-day02-03upload (1)" target="8" />
+      <module name="springmvc-day02-03upload (1) (com.itheima.project)" target="8" />
+      <module name="springmvc-day02-04intercept" target="8" />
+      <module name="springmvc-day02-05login-intercept" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
