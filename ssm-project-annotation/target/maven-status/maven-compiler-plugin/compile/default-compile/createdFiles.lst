@@ -1,0 +1,16 @@
+com\wmq\ssm\service\LogInfoService.class
+com\wmq\ssm\web\LoginController.class
+com\wmq\ssm\pojo\Customer.class
+com\wmq\ssm\service\impl\CustomerServiceImpl.class
+com\wmq\ssm\intercept\LoginIntercept.class
+com\wmq\ssm\exception\BaseException.class
+com\wmq\ssm\config\SpringConfig.class
+com\wmq\ssm\mapper\CustomerMapper.class
+com\wmq\ssm\config\MybatisConfig.class
+com\wmq\ssm\config\ProjectInitConfig.class
+com\wmq\ssm\config\SpringMvcConfig.class
+com\wmq\ssm\web\CustomerController.class
+com\wmq\ssm\service\CustomerService.class
+com\wmq\ssm\exception\ProjectException.class
+com\wmq\ssm\exception\ProjectExceptionResolver.class
+com\wmq\ssm\service\impl\LogInfoServiceImpl.class

@@ -7,6 +7,8 @@
     <file type="web" url="file://$PROJECT_DIR$/springmvc-day02-03upload1" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc-day02-04intercept" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc-day02-05login-intercept" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm-maven/ssm-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm-project-annotation" />
     <file type="web" url="file://$PROJECT_DIR$/ssm-project-xml" />
   </component>
   <component name="JavaScriptSettings">
@@ -41,6 +43,9 @@
         <option value="$PROJECT_DIR$/springmvc-day02-04intercept/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc-day02-05login-intercept/pom.xml" />
         <option value="$PROJECT_DIR$/ssm-project-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm-project-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm-maven/ssm-service/pom.xml" />
       </list>
     </option>
   </component>

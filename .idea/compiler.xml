@@ -6,33 +6,38 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-day03-07spring-aop-xml-annotation" />
-        <module name="spring-01-spring-ioc-xml" />
-        <module name="spring-day03-09spring-tx-xml" />
-        <module name="springmvc-day02-01return-type" />
-        <module name="spring-day03-12spring-tx-annotation" />
-        <module name="spring-day02-03jdbctemplate-mapper" />
-        <module name="spring-day03-04myaop" />
-        <module name="springmvc-day02-04intercept" />
-        <module name="spring-day03-10spring-tx-xml-lv1" />
-        <module name="spring-day02-05annotation-xml-ioc" />
-        <module name="spring-01-bean-scope" />
-        <module name="spring-day02-11annotation-xml-ioc-life" />
-        <module name="springmvc-day01-01helloworld" />
-        <module name="spring-01-spring-bean-di-set" />
-        <module name="spring-day02-12annotation-ioc" />
-        <module name="spring-day02-02jdbctemplate-crud" />
-        <module name="springmvc-day02-05login-intercept" />
-        <module name="spring-day03-06spring-aop-xml-inform" />
-        <module name="spring-day02-01jdbctemplate" />
-        <module name="spring-01-bean-lifecycle" />
-        <module name="ssm-project-xml" />
-        <module name="spring-01-beanFactory-applicationContext" />
-        <module name="springmvc-day02-03upload (1) (com.itheima.project)" />
-        <module name="springmvc-day02-03upload" />
-        <module name="spring-day02-09annotation-xml-ioc-value" />
         <module name="spring-01-bean-instance" />
+        <module name="spring-01-spring-bean-di-set" />
+        <module name="springmvc-day01-01helloworld" />
+        <module name="spring-day02-01jdbctemplate" />
+        <module name="spring-day03-10spring-tx-xml-lv1" />
+        <module name="spring-day02-02jdbctemplate-crud" />
+        <module name="springmvc-day02-03upload (1) (com.itheima.project)" />
+        <module name="ssm-dao" />
+        <module name="spring-01-bean-lifecycle" />
+        <module name="spring-day03-12spring-tx-annotation" />
+        <module name="springmvc-day02-04intercept" />
+        <module name="spring-day02-03jdbctemplate-mapper" />
+        <module name="spring-day03-06spring-aop-xml-inform" />
+        <module name="ssm-project-xml" />
+        <module name="spring-day03-07spring-aop-xml-annotation" />
+        <module name="springmvc-day02-01return-type" />
+        <module name="ssm-service" />
+        <module name="spring-01-bean-scope" />
         <module name="spring-day03-08spring-aop-annotation" />
+        <module name="ssm-log" />
+        <module name="spring-day03-04myaop" />
+        <module name="spring-day02-09annotation-xml-ioc-value" />
+        <module name="spring-day03-09spring-tx-xml" />
+        <module name="springmvc-day02-05login-intercept" />
+        <module name="spring-day02-05annotation-xml-ioc" />
+        <module name="ssm-web" />
+        <module name="ssm-project-annotation" />
+        <module name="spring-01-spring-ioc-xml" />
+        <module name="spring-day02-11annotation-xml-ioc-life" />
+        <module name="spring-01-beanFactory-applicationContext" />
+        <module name="springmvc-day02-03upload" />
+        <module name="spring-day02-12annotation-ioc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -65,7 +70,13 @@
       <module name="springmvc-day02-03upload (1) (com.itheima.project)" target="8" />
       <module name="springmvc-day02-04intercept" target="8" />
       <module name="springmvc-day02-05login-intercept" target="8" />
+      <module name="ssm-dao" target="8" />
+      <module name="ssm-log" target="8" />
+      <module name="ssm-maven" target="8" />
+      <module name="ssm-project-annotation" target="8" />
       <module name="ssm-project-xml" target="8" />
+      <module name="ssm-service" target="8" />
+      <module name="ssm-web" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

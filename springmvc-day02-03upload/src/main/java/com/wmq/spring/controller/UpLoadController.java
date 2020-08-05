@@ -54,15 +54,15 @@ public class UpLoadController extends BaseException {
     public String add(Customer customer, MultipartFile file, Model model) throws ProjectException {
         Integer custId =1;
         customer.setCustId(custId);
-        System.out.println("customer对象保存成功"+customer.toString());
         FileObject fileObject = null;
         try {
             fileObject = fileObjectService.upLoad(file, custId, CUSTOMER_FILE);
-            int i = 1/0;
+            //int i = 1/0;
         } catch (Exception e) {
             throw new ProjectException("文件上传错误", "0001");
         }
         customer.setFileObject(fileObject);
+        System.out.println("customer对象保存成功"+customer.toString());
         model.addAttribute("customer", customer);
         model.addAttribute("website", "http://127.0.0.1/file-service/");
         return "customer-list";

@@ -50,7 +50,7 @@
 
     <!--声明aop的配置-->
     <aop:config>
-        <!--切入点-->
+        <!--关联事务和切入点-->
         <aop:pointcut id="txPointcut" expression="bean(dealService)"/>
         <aop:advisor advice-ref="txAdvice" pointcut-ref="txPointcut"/>
 
@@ -61,7 +61,5 @@
             <aop:before method="createLogInfo" pointcut-ref="loginfoPointcut"/>
         </aop:aspect>
     </aop:config>
-
-
 
 </beans>

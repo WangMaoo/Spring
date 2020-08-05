@@ -29,7 +29,13 @@
       <module fileurl="file://$PROJECT_DIR$/springmvc-day02-03upload1/springmvc-day02-03upload (1) (com.itheima.project).iml" filepath="$PROJECT_DIR$/springmvc-day02-03upload1/springmvc-day02-03upload (1) (com.itheima.project).iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc-day02-04intercept/springmvc-day02-04intercept.iml" filepath="$PROJECT_DIR$/springmvc-day02-04intercept/springmvc-day02-04intercept.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc-day02-05login-intercept/springmvc-day02-05login-intercept.iml" filepath="$PROJECT_DIR$/springmvc-day02-05login-intercept/springmvc-day02-05login-intercept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-maven/ssm-dao/ssm-dao.iml" filepath="$PROJECT_DIR$/ssm-maven/ssm-dao/ssm-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-maven/ssm-log/ssm-log.iml" filepath="$PROJECT_DIR$/ssm-maven/ssm-log/ssm-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-maven/ssm-maven.iml" filepath="$PROJECT_DIR$/ssm-maven/ssm-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-project-annotation/ssm-project-annotation.iml" filepath="$PROJECT_DIR$/ssm-project-annotation/ssm-project-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm-project-xml/ssm-project-xml.iml" filepath="$PROJECT_DIR$/ssm-project-xml/ssm-project-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-maven/ssm-service/ssm-service.iml" filepath="$PROJECT_DIR$/ssm-maven/ssm-service/ssm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-maven/ssm-web/ssm-web.iml" filepath="$PROJECT_DIR$/ssm-maven/ssm-web/ssm-web.iml" />
     </modules>
   </component>
 </project>
